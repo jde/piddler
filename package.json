@@ -1,0 +1,20 @@
+{
+  "name": "piddler",
+  "version": "1.0.0",
+  "description": "Writes the node process' pid to a tasty file for programmtic manipulation",
+  "main": "piddler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daviderwin/piddler.git"
+  },
+  "keywords": [
+    "pid",
+    "linux",
+    "script"
+  ],
+  "author": "David Erwin",
+  "license": "BSD"
+}
