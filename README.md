@@ -1,4 +1,4 @@
-piddler
+piddler*
 =======
 
 A node module that writes the pid of a node process to a file for delicious programmatic mainpulation
@@ -27,3 +27,6 @@ credits
 -------
 
 Smarter people than me from whom I've picked up the rigour of caring enough to control my processes with scripts.  You all rock.
+
+
+* piddler should have been named pidlet
